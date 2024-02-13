@@ -1,0 +1,8 @@
+https://github.com/KalleTapsa/Introduction-to-xr-HW2
+
+Right controller trigger press = quit
+
+Both controller:
+
+Primary button = Grab
+Secondary button = Double speed rotation
